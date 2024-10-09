@@ -89,3 +89,47 @@ To run the Flask application, use the following command:
 ```bash
 python app.py
 ```
+
+# Language Codes
+
+Below is a table of language codes along with their corresponding language names:
+
+| Code   | Language           |
+|--------|--------------------|
+| af     | Afrikaans          |
+| sq     | Albanian           |
+| ar     | Arabic             |
+| hy     | Armenian           |
+| bn     | Bengali            |
+| bs     | Bosnian            |
+| ca     | Catalan            |
+| hr     | Croatian           |
+| cs     | Czech              |
+| da     | Danish             |
+| nl     | Dutch              |
+| en     | English            |
+| et     | Estonian           |
+| tl     | Filipino           |
+| fi     | Finnish            |
+| fr     | French             |
+| de     | German             |
+| el     | Greek              |
+| en-us  | English (US)       |
+| gu     | Gujarati           |
+| hi     | Hindi              |
+| hu     | Hungarian          |
+| is     | Icelandic          |
+| id     | Indonesian         |
+| it     | Italian            |
+| ja     | Japanese           |
+| en-ca  | English (Canada)   |
+| jw     | Javanese           |
+| kn     | Kannada            |
+| km     | Khmer              |
+| ko     | Korean             |
+| la     | Latin              |
+| lv     | Latvian            |
+| mk     | Macedonian         |
+| ml     | Malayalam          |
+| mr     | Marathi            |
+| en-in  | English (India)    |
