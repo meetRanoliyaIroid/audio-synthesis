@@ -6,6 +6,11 @@ from io import BytesIO
 # Initialize the Flask app
 app = Flask(__name__)
 
+
+@app.route('/test-api', methods=['GET'])
+def connect():
+    return  "test api called"
+
 @app.route('/text-to-speech', methods=['POST'])
 def convert_text_to_speech():
     try:
@@ -34,5 +39,5 @@ def convert_text_to_speech():
 
 
 if __name__ == '__main__':
-    app.run(host='192.168.1.30', port=5000, debug=True)
+    app.run(host='127.0.0.1', port=5000, debug=True)
 
